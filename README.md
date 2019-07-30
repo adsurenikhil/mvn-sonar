@@ -1,6 +1,6 @@
 # Basic Maven Example
 
-This sample Maven project is importing JaCoCo's coverage report. For multi-module project example 
+This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
 see [multi-module Maven project](../sonarscanner-maven-aggregate/README.md)
         
 ## Usage
