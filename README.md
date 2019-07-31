@@ -3,7 +3,7 @@
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
 see [multi-module Maven project](../sonarscanner-maven-aggregate/README.md)
         
-## Usage ##
+## Usage ###
 
 * Build the project, execute all the tests and analyze the project with SonarQube Scanner for Maven:
 
